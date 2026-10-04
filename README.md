@@ -1,2 +1,5 @@
-# web-and-weather-search-basic-agent
-Agent IA basique de recherche web et de météo
+conda create -n langagent python=3.11 -y
+
+conda activate langagent
+
+pip install -r requirements.txt
